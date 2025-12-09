@@ -1,0 +1,99 @@
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfo.cs
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\appsettings.json
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.staticwebassets.endpoints.json
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.exe
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.deps.json
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.runtimeconfig.json
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.dll
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\WebApp.pdb
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\Application.dll
+C:\Users\fjvs\Project\src\WebApp\bin\Debug\net9.0\Application.pdb
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.Up2Date
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.dll
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\refint\WebApp.dll
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.pdb
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
+C:\Users\fjvs\Project\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+D:\Project\src\WebApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Project\src\WebApp\bin\Debug\net9.0\appsettings.json
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.staticwebassets.endpoints.json
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.exe
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.deps.json
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.runtimeconfig.json
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.dll
+D:\Project\src\WebApp\bin\Debug\net9.0\WebApp.pdb
+D:\Project\src\WebApp\bin\Debug\net9.0\Application.dll
+D:\Project\src\WebApp\bin\Debug\net9.0\Application.pdb
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.AssemblyReference.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfoInputs.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfo.cs
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cs
+D:\Project\src\WebApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Project\src\WebApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Project\src\WebApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Project\src\WebApp\obj\Debug\net9.0\scopedcss\bundle\WebApp.styles.css
+D:\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Project\src\WebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.csproj.Up2Date
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.dll
+D:\Project\src\WebApp\obj\Debug\net9.0\refint\WebApp.dll
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.pdb
+D:\Project\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
+D:\Project\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\appsettings.Development.json
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\appsettings.json
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.staticwebassets.endpoints.json
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.exe
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.deps.json
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.runtimeconfig.json
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.dll
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\WebApp.pdb
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\Application.dll
+D:\Project\Project Unit\src\WebApp\bin\Debug\net9.0\Application.pdb
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.csproj.AssemblyReference.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfoInputs.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.AssemblyInfo.cs
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.csproj.CoreCompileInputs.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.RazorAssemblyInfo.cs
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\scopedcss\bundle\WebApp.styles.css
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\staticwebassets.development.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.csproj.Up2Date
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.dll
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\refint\WebApp.dll
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.pdb
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
+D:\Project\Project Unit\src\WebApp\obj\Debug\net9.0\ref\WebApp.dll

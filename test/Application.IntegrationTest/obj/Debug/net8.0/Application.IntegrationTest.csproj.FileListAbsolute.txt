@@ -1,0 +1,5 @@
+D:\Project\Project Unit\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.csproj.AssemblyReference.cache
+D:\Project\Project Unit\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project Unit\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.AssemblyInfoInputs.cache
+D:\Project\Project Unit\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.AssemblyInfo.cs
+D:\Project\Project Unit\test\Application.IntegrationTest\obj\Debug\net8.0\Application.IntegrationTest.csproj.CoreCompileInputs.cache
